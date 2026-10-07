@@ -6,7 +6,9 @@ GitHub authentication and existing repository discovery succeeded. Section 10 st
 
 Local evidence (2026-10-07): ESLint passed; strict TypeScript passed; 13 environment-boundary tests passed; Prettier check passed; Next.js production build passed; production dependency audit reported no known vulnerabilities. Windows sandbox restrictions required running the build/tests with elevated sandbox access. An initial malformed-URL validation failure was fixed and all 13 tests rerun successfully.
 
-External exit criteria are not met: no Meta app/test connection, Razorpay test plans, hosted infrastructure, published legal pages or completed Meta VERIFY research. Docker is unavailable on this host, so Compose service startup is untested. CI configuration is not evidence of a passing remote run.
+[GitHub Actions CI run 37660728568](https://github.com/TalkeenAhmadNomani/dmly/actions/runs/37660728568) completed successfully for foundation commit `c108522`. The commit is pushed to `main`.
+
+External exit criteria are not met: no Meta app/test connection, Razorpay test plans, hosted infrastructure, published legal pages or completed Meta VERIFY research. Docker is unavailable on this host, so Compose service startup is untested.
 
 ## Phase 1 / M1 — not reached
 
