@@ -1,0 +1,11 @@
+{
+  "name": "@dmly/core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./env": "./src/env.ts"
+  },
+  "dependencies": {
+    "zod": "^4.1.0"
+  }
+}

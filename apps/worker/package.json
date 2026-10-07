@@ -1,0 +1,7 @@
+{
+  "name": "@dmly/worker",
+  "private": true,
+  "dependencies": {
+    "@dmly/core": "workspace:*"
+  }
+}
